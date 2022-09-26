@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mrmtech.co.uk
+
+# Sitemaps
+Sitemap: https://mrmtech.co.uk/sitemap.xml
